@@ -1,4 +1,4 @@
-FROM anolis-registry.cn-zhangjiakou.cr.aliyuncs.com/openanolis/nginx
+FROM openanolis/anolisos:8.6
 
 
 # 安装 fcgiwrap spawn-fcgi 和其他依赖
